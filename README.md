@@ -25,6 +25,7 @@ This project demonstrates the usage of a rain sensor and buzzer with Arduino.
 ## Hardware Components
 - Arduino board
 - Rain sensor
+- 16*2 LCD Display
 - Buzzer
 
 
@@ -37,6 +38,7 @@ This project demonstrates the usage of a rain sensor and buzzer with Arduino.
 ## Pin Configurations
 
 - Rain Sensor Pin: A0
+- LCD Dispaly Pin: D8
 - Buzzer Pin: 7
 
 If you need to change pin configurations, locate the corresponding section in the Arduino code and update the pin numbers accordingly.
