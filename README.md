@@ -16,6 +16,11 @@ This project demonstrates the usage of a rain sensor and buzzer with Arduino.
   </a>
   </div>
   <br/>
+   <div align="center">
+    <img src="lcd-display.jpg" alt="lcd-display" width="430" height="300">
+  </a>
+  </div>
+  <br/>
   
 ## Hardware Components
 - Arduino board
