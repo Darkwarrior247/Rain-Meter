@@ -33,7 +33,7 @@ This project demonstrates the usage of a rain sensor and buzzer with Arduino.
 
 * Download [Arduino](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
 * Make connections on the Arduino board. This [YouTube videos](https://www.youtube.com/results?search_query=arduino+rain+sensor) can help. 
-* Add [this codes]([https://github.com/yagmurbarank/rain-sensor-with-arduino/blob/main/Arduino-rain-sensor/Arduino-rain-sensor.ino](https://github.com/Darkwarrior247/Rain-Meter/blob/main/Rain-meter/Rain-meter.ino))
+* Add [the code](https://github.com/Darkwarrior247/Rain-Meter/blob/main/Rain-meter/Rain-meter.ino)
 
 ## Pin Configurations
 
